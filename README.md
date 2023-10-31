@@ -1,6 +1,6 @@
-<rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="399" fill="#ffffff00" stroke-opacity="1"/>
-
 ![Minkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyun99&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=minkyun99&hide_progress-Donut Vertical Chart layout=true)
 
 
 ### Hi there 👋
