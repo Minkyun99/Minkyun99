@@ -1,4 +1,4 @@
-![Minkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyun99&show_icons=true&theme=gruvbox)
+![Minkyung's GitHub stats](https://github-readme-stats.vercel.app/api?username=minkyun99&show_icons=true&theme=tokyonight)
 
 
 ### Hi there 👋
